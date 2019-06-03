@@ -11,6 +11,10 @@
 *.ilk
 *.map
 *.exp
+# Matlab MEX functions
+*.mexa64
+*.mexmaci64
+*.mexw64
 
 # Precompiled Headers
 *.gch
